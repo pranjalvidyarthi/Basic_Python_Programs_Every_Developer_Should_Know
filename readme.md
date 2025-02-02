@@ -4,24 +4,10 @@ Welcome to 100 Days of Python for Beginners! 🚀 This series is designed to hel
 
 # 🔥 What You Will Learn
 
-Python basics: Variables, Data Types, Operators
-
-Control Flow: Loops, Conditional Statements
-
-Functions and Modules
-
-Object-Oriented Programming (OOP)
-
-File Handling
-
-Working with APIs and Web Scraping
-
-Data Analysis with Pandas
-
-Automation and Scripting
-
-And much more!
-
+Basic understanding about python
+Build simple projects
+How to solve problems
+Real-world Problem Projects
 
 # 🛠️ Requirements
 
