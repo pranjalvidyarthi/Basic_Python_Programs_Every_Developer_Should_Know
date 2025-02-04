@@ -39,6 +39,7 @@ If you find any issues or have suggestions, feel free to contribute! You can for
 
 📺 YouTube: www.youtube.com/@pranjaltechnology
 📸 Instagram: vansh.x_x.vidyarthi
+📨 Email : pvidyarthi8@gmail.com
 
 Happy coding! 🚀🐍
 
