@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime #importing datetime from datetime module
 # current time display
 current_time = datetime.now().strftime('%H:%M:%S')
 
