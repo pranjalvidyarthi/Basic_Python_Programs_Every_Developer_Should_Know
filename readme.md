@@ -33,13 +33,15 @@ python day_01/main.py
 
 # 📌 Contribution
 
-If you find any issues or have suggestions, feel free to contribute! You can fork the repository, make changes, and submit a pull request.
+If you find any issues or have suggestions, feel free to contribute! You can fork the repository, make changes, and submit a pull request. or email me at pvidyarthi8@gmail.com
 
 # 💡 Connect with Me
 
 📺 YouTube: www.youtube.com/@pranjaltechnology
 📸 Instagram: vansh.x_x.vidyarthi
 📨 Email : pvidyarthi8@gmail.com
+🕊 Twitter (X) : https://x.com/pranjaltech1
+
 
 Happy coding! 🚀🐍
 
