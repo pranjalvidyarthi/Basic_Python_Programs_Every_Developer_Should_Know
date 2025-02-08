@@ -17,15 +17,10 @@ A code editor (VS Code, PyCharm, or any other)
 
 Basic understanding of programming concepts (optional)
 
-# 🚀 How to Get Started
+# 🚀 How to Get Started: 
 
-Clone the repository:
-
-git clone https://github.com/pranjalvidyarthi/100-days-python.git
-
-Navigate to the project directory:
-
-cd 100-days-python
+    1) Download the source code
+    2) Make sure you have installed python version 3.7 or above
 
 Choose a day's project and run the Python script:
 
