@@ -11,7 +11,7 @@ Real-world Problem Projects
 
 # 🛠️ Requirements
 
-Python 3.x installed (Download here)
+Python 3.x installed (https://www.python.org/)
 
 A code editor (VS Code, PyCharm, or any other)
 
