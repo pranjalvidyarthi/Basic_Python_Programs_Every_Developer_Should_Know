@@ -1,4 +1,0 @@
-Hello! I'm Pranjal Vidyarthi, a high school passout with a passion for coding. 
- I'm currently learning Python and HTML, and I'm excited to see where this journey takes me. 
-  My goal is to become an expert in these languages and eventually create my own coding language. I'm fascinated by the endless possibilities that coding offers, and I'm eager to contribute my own ideas and innovations to the field. 
- Through this website, I hope to share my learning journey, showcase my projects, and connect with like-minded individuals who share my enthusiasm for coding.
