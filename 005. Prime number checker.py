@@ -1,14 +1,14 @@
 # CHeck whether a number is prime or not
-num = int(input("Enter your number : "))
-Prime = False
-if num < 1:
-    print(f'{num} is invalid input')
-elif num > 1:
-    for i in range(2, num):
-        if num % i ==0:
-            Prime = True
+number = int(input("Enter your number : "))
+is_prime = False
+if number < 1:
+    print(f'{number} is invalid input')
+elif number > 1:
+    for i in range(2, number):
+        if number % i == 0:
+            is_prime = True
             break
-    if Prime:
-        print(f'{num} is not a Prime Number')
+    if is_prime:
+        print(f'{number} is not a Prime Number')
     else:
-        print(f'{num} is a Prime Number ')
+        print(f'{number} is a Prime Number ')
