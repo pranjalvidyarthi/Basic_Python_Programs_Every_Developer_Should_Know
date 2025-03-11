@@ -8,7 +8,7 @@ elif number > 1:
         if number % i == 0:
             is_prime = True
             break
-    if is_prime:
+    if is_prime == True:
         print(f'{number} is not a Prime Number')
     else:
         print(f'{number} is a Prime Number ')

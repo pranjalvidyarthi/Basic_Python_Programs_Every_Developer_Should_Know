@@ -8,9 +8,6 @@ def generate_table():
     except ValueError:
         table_text.set("Please Enter a valid number")
     
-
-
-
 #Create main window
 root = tk.Tk()
 root.title('Multiplication Table Generator ~ Pranjal Tech')
