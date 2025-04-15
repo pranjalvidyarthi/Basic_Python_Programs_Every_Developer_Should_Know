@@ -24,7 +24,7 @@ Basic understanding of programming concepts (optional)
 
 Choose a day's project and run the Python script:
 
-python day_01/main.py
+python 01_project-name/main.py
 
 # 📌 Contribution
 
@@ -32,10 +32,10 @@ If you find any issues or have suggestions, feel free to contribute! You can for
 
 # 💡 Connect with Me
 
-📺 YouTube: www.youtube.com/@pranjaltechnology
-📸 Instagram: vansh.x_x.vidyarthi
-📨 Email : pvidyarthi8@gmail.com
-🕊 Twitter (X) : https://x.com/pranjaltech1
+📺 YouTube         : www.youtube.com/@pranjaltechnology
+📸 Instagram       : vansh.x_x.vidyarthi
+📨 Email           : pvidyarthi8@gmail.com
+🕊 Twitter (X)      : https://x.com/pranjaltech1
 
 
 Happy coding! 🚀🐍
