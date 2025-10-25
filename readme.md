@@ -1,6 +1,6 @@
-# 100 Days of Python for Beginners
+# Basic Python Programs Every Developer should know !
 
-Welcome to 100 Days of Python for Beginners! 🚀 This series is designed to help you learn Python step by step, with a new project every day. Whether you're a complete beginner or looking to strengthen your Python skills, this series will provide hands-on experience through practical coding challenges.
+Welcome to Basic Python Programs Every Developer should know !! 🚀 This series is designed to help you learn Python step by step, with a new project every day. Whether you're a complete beginner or looking to strengthen your Python skills, this series will provide hands-on experience through practical coding challenges.
 
 # 🔥 What You Will Learn
 
